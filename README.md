@@ -17,3 +17,15 @@ go run main.go
 ```
 go build .
 ```
+
+### Test
+
+```
+go test ./...
+```
+
+### Format 
+
+```
+gofmt -l .
+```
